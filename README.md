@@ -1,8 +1,2 @@
 # project
-first project
-fhhfh
-ffjjfjf
-ffnnfnf
-C
-C
-p
+change in git
